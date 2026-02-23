@@ -31,7 +31,7 @@
 
 ## Learning in Public
 
-- 🔌 **[MCP Scratch](https://github.com/karticksaxena/mcp-scratch)** - MCP server built from raw JSON-RPC over stdio — no SDKs, just Python
+- 🔌 **[MCP Scratch](https://github.com/karticksaxena/mcp-scratch)** - MCP server built from raw JSON-RPC over stdio - no SDKs, just Python
 - 💡 **[LeetCode Solutions](https://github.com/karticksaxena/My-Leetcode-Solutions)** - Ongoing DSA practice
 - 🧮 **[Data Structures & Algorithms](https://github.com/karticksaxena/Data-Structures-Algos)** - Core CS fundamentals
 - 🦜 **[LangChain + VertexAI](https://github.com/karticksaxena/Langchain-VertexAI)** - Experiments with LangChain on GCP
