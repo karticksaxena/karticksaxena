@@ -1,25 +1,64 @@
-<h1 align="center">Hi 👋, I'm Kartik Saxena</h1>
-<h2 align="center">An emerging Cloud Data Engineer</h2>
+# Hi, I'm Kartik Saxena 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-batman-code&label=Profile%20views&color=0e75b6&style=flat" alt="the-batman-code" /> </p>
+🏙️ **Bangalore** | 🤖 **AI Engineer** | ⚡ **Building production agent systems**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-batman-code" alt="the-batman-code" /></a> </p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-121212?style=flat-square&logo=anthropic&logoColor=white)
+![A2A](https://img.shields.io/badge/-A2A-FF6B35?style=flat-square&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-<p align="left"> <a href="https://twitter.com/kar_tik1972" target="blank"><img src="https://img.shields.io/twitter/follow/kar_tik1972?logo=twitter&style=for-the-badge" alt="kar_tik1972" /></a> </p>
+> All-in on Google ADK — building multi-agent systems that actually run in production, not just in notebooks.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kar_tik1972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kar_tik1972" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartik-saxena-5b6157254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik-saxena-5b6157254/" height="30" width="40" /></a>
-<a href="https://instagram.com/kar.ti.ck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kar.ti.ck" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ks2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ks2004" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## Current Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-batman-code&show_icons=true&locale=en&layout=compact" alt="the-batman-code" /></p>
+🔍 **[Job Search Agent](https://github.com/The-Batman-Code/Job-search)** - Multi-tool ADK agent for real-time job market intelligence; integrates Adzuna API for salary trends, regional stats, and top hiring companies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-batman-code&show_icons=true&locale=en" alt="the-batman-code" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-batman-code&" alt="the-batman-code" /></p>
+## Legacy Work
+
+- 🏙️ **[NYC Event-Driven Analytics Pipeline](https://github.com/The-Batman-Code/Project-9.5-NYC-Event-Driven-Data-Analytics-Dataproc-Pyspark)** - Event-driven GCP pipeline using PySpark/Dataproc, BigQuery, and Looker Studio dashboards
+- 🚕 **[NYC Uber Data Engineering](https://github.com/The-Batman-Code/Project-7-NYC-Uber-Data-Engineering-Pandas-Pyspark-Mage)** - End-to-end data engineering pipeline with Mage, Pandas, PySpark, and BigQuery
+- 💰 **[HeyLoopa](https://github.com/The-Batman-Code/Project-6-Loopa)** - AI-powered financial insights tool built with Gemini Pro on GCP
+- 📄 **[PDF2Excel](https://github.com/The-Batman-Code/Project-8-PDF-2-Excel)** - Automated PDF to structured Excel converter
+- 🥔 **[Potato Disease Classifier](https://github.com/The-Batman-Code/Project-5-Potato-Disease-Classification)** - CNN-based plant disease detection model
+- 🤖 **[ChatGPT WhatsApp Bot](https://github.com/The-Batman-Code/Project-3-ChatGPT-Whatsapp-Automation)** - GPT-powered WhatsApp automation
+- 🐦 **[Notion → Twitter Automation](https://github.com/The-Batman-Code/Project-4-Notion-Twitter-Automation)** - Auto-publish from Notion to Twitter
+- 🏠 **[Real Estate Price Predictor](https://github.com/The-Batman-Code/Project-1-Real-Estate-Price-Prediction)** - ML model for property price prediction
+- 🏏 **[Sports Person Classifier](https://github.com/The-Batman-Code/Project-2-Sports-Person-Classifier)** - Image classification model for athletes
+
+---
+
+## GitHub Activity
+
+![GitHub Activity Graph](https://ghchart.rshah.org/The-Batman-Code)
+
+---
+
+## What I'm Doing
+
+- **Arguing with Claude Code and Cursor** — convinced I'm right, usually not
+- **Building a portfolio website** — because apparently just having projects isn't enough
+- **Building a portfolio project** — something worth pointing at during interviews
+- **Trying to build a trading bot** — emphasis on *trying*
+- **Desperately keeping up with the AI space** — it moves faster than I can read
+
+---
+
+## Connect
+
+[![Twitter](https://img.shields.io/badge/-@kar__tik1972-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kar_tik1972)
+[![LinkedIn](https://img.shields.io/badge/-Kartik_Saxena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-saxena-5b6157254/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/The-Batman-Code)
+
+---
+
+### Philosophy
+
+> *"AI doesn't make decisions — it makes humans better at making them."*
