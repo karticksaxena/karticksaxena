@@ -29,6 +29,16 @@
 - 🏠 **[Real Estate Price Predictor](https://github.com/karticksaxena/Project-1-Real-Estate-Price-Prediction)** - ML model for property price prediction
 - 🏏 **[Sports Person Classifier](https://github.com/karticksaxena/Project-2-Sports-Person-Classifier)** - Image classification model for athletes
 
+## Learning in Public
+
+- 💡 **[LeetCode Solutions](https://github.com/karticksaxena/My-Leetcode-Solutions)** - Ongoing DSA practice
+- 🧮 **[Data Structures & Algorithms](https://github.com/karticksaxena/Data-Structures-Algos)** - Core CS fundamentals
+- 🦜 **[LangChain + VertexAI](https://github.com/karticksaxena/Langchain-VertexAI)** - Experiments with LangChain on GCP
+- 🧠 **[Deep Learning](https://github.com/karticksaxena/Deep-Learning)** - Neural network concepts and implementations
+- 👁️ **[YOLOv3 Object Detection](https://github.com/karticksaxena/YOLOV3_Python)** - Real-time object detection with Python
+- 🐍 **[Python](https://github.com/karticksaxena/python)** - Python fundamentals and experiments
+- 📊 **[Machine Learning](https://github.com/karticksaxena/Machine_Learning)** - ML algorithms from scratch
+
 ## GitHub Activity
 
 ![GitHub Activity Graph](https://ghchart.rshah.org/karticksaxena)
