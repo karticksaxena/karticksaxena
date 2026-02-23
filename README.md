@@ -13,33 +13,25 @@
 
 > All-in on Google ADK — building multi-agent systems that actually run in production, not just in notebooks.
 
----
-
 ## Current Projects
 
-🔍 **[Job Search Agent](https://github.com/The-Batman-Code/Job-search)** - Multi-tool ADK agent for real-time job market intelligence; integrates Adzuna API for salary trends, regional stats, and top hiring companies
-
----
+- 🔍 **[Job Search Agent](https://github.com/karticksaxena/Job-search)** - ADK agent for real-time job market intelligence using the Adzuna API
 
 ## Legacy Work
 
-- 🏙️ **[NYC Event-Driven Analytics Pipeline](https://github.com/The-Batman-Code/Project-9.5-NYC-Event-Driven-Data-Analytics-Dataproc-Pyspark)** - Event-driven GCP pipeline using PySpark/Dataproc, BigQuery, and Looker Studio dashboards
-- 🚕 **[NYC Uber Data Engineering](https://github.com/The-Batman-Code/Project-7-NYC-Uber-Data-Engineering-Pandas-Pyspark-Mage)** - End-to-end data engineering pipeline with Mage, Pandas, PySpark, and BigQuery
-- 💰 **[HeyLoopa](https://github.com/The-Batman-Code/Project-6-Loopa)** - AI-powered financial insights tool built with Gemini Pro on GCP
-- 📄 **[PDF2Excel](https://github.com/The-Batman-Code/Project-8-PDF-2-Excel)** - Automated PDF to structured Excel converter
-- 🥔 **[Potato Disease Classifier](https://github.com/The-Batman-Code/Project-5-Potato-Disease-Classification)** - CNN-based plant disease detection model
-- 🤖 **[ChatGPT WhatsApp Bot](https://github.com/The-Batman-Code/Project-3-ChatGPT-Whatsapp-Automation)** - GPT-powered WhatsApp automation
-- 🐦 **[Notion → Twitter Automation](https://github.com/The-Batman-Code/Project-4-Notion-Twitter-Automation)** - Auto-publish from Notion to Twitter
-- 🏠 **[Real Estate Price Predictor](https://github.com/The-Batman-Code/Project-1-Real-Estate-Price-Prediction)** - ML model for property price prediction
-- 🏏 **[Sports Person Classifier](https://github.com/The-Batman-Code/Project-2-Sports-Person-Classifier)** - Image classification model for athletes
-
----
+- 🏙️ **[NYC Event-Driven Analytics Pipeline](https://github.com/karticksaxena/Project-9.5-NYC-Event-Driven-Data-Analytics-Dataproc-Pyspark)** - Event-driven GCP pipeline with PySpark, BigQuery, and Looker Studio
+- 🚕 **[NYC Uber Data Engineering](https://github.com/karticksaxena/Project-7-NYC-Uber-Data-Engineering-Pandas-Pyspark-Mage)** - End-to-end pipeline with Mage, PySpark, and BigQuery
+- 💰 **[HeyLoopa](https://github.com/karticksaxena/Project-6-Loopa)** - AI-powered financial insights tool built with Gemini Pro on GCP
+- 📄 **[PDF2Excel](https://github.com/karticksaxena/Project-8-PDF-2-Excel)** - Automated PDF to structured Excel converter
+- 🥔 **[Potato Disease Classifier](https://github.com/karticksaxena/Project-5-Potato-Disease-Classification)** - CNN-based plant disease detection model
+- 🤖 **[ChatGPT WhatsApp Bot](https://github.com/karticksaxena/Project-3-ChatGPT-Whatsapp-Automation)** - GPT-powered WhatsApp automation
+- 🐦 **[Notion → Twitter Automation](https://github.com/karticksaxena/Project-4-Notion-Twitter-Automation)** - Auto-publish from Notion to Twitter
+- 🏠 **[Real Estate Price Predictor](https://github.com/karticksaxena/Project-1-Real-Estate-Price-Prediction)** - ML model for property price prediction
+- 🏏 **[Sports Person Classifier](https://github.com/karticksaxena/Project-2-Sports-Person-Classifier)** - Image classification model for athletes
 
 ## GitHub Activity
 
-![GitHub Activity Graph](https://ghchart.rshah.org/The-Batman-Code)
-
----
+![GitHub Activity Graph](https://ghchart.rshah.org/karticksaxena)
 
 ## What I'm Doing
 
@@ -49,15 +41,11 @@
 - **Trying to build a trading bot** — emphasis on *trying*
 - **Desperately keeping up with the AI space** — it moves faster than I can read
 
----
-
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@kar__tik1972-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kar_tik1972)
 [![LinkedIn](https://img.shields.io/badge/-Kartik_Saxena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-saxena-5b6157254/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/The-Batman-Code)
-
----
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karticksaxena)
 
 ### Philosophy
 
