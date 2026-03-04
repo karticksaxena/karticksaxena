@@ -31,6 +31,7 @@
 
 ## Learning in Public
 
+- 🧬 **[Word2Vec from Scratch](https://github.com/karticksaxena/Embeddings-scratch)** - Primitive next-word prediction, CBOW, Skipgram, and SGNS implemented in PyTorch
 - 🔌 **[MCP Scratch](https://github.com/karticksaxena/mcp-scratch)** - MCP server built from raw JSON-RPC over stdio - no SDKs, just Python
 - 💡 **[LeetCode Solutions](https://github.com/karticksaxena/My-Leetcode-Solutions)** - Ongoing DSA practice
 - 🧮 **[Data Structures & Algorithms](https://github.com/karticksaxena/Data-Structures-Algos)** - Core CS fundamentals
