@@ -31,6 +31,7 @@
 
 ## Learning in Public
 
+- 🤖 **[Learning GPT](https://github.com/karticksaxena/Learning-GPT)** - Decoder-only transformer built from scratch in PyTorch, following Karpathy's tutorial
 - 🧬 **[Word2Vec from Scratch](https://github.com/karticksaxena/Embeddings-scratch)** - Primitive next-word prediction, CBOW, Skipgram, and SGNS implemented in PyTorch
 - 🔌 **[MCP Scratch](https://github.com/karticksaxena/mcp-scratch)** - MCP server built from raw JSON-RPC over stdio - no SDKs, just Python
 - 💡 **[LeetCode Solutions](https://github.com/karticksaxena/My-Leetcode-Solutions)** - Ongoing DSA practice
@@ -41,9 +42,9 @@
 - 🐍 **[Python](https://github.com/karticksaxena/python)** - Python fundamentals and experiments
 - 📊 **[Machine Learning](https://github.com/karticksaxena/Machine_Learning)** - ML algorithms from scratch
 
-## GitHub Activity
+## ShitHub Activity
 
-![GitHub Activity Graph](https://ghchart.rshah.org/karticksaxena)
+![ShitHub Activity Graph](https://ghchart.rshah.org/karticksaxena)
 
 ## What I'm Doing
 
@@ -57,7 +58,7 @@
 
 [![Twitter](https://img.shields.io/badge/-@kar__tik1972-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kar_tik1972)
 [![LinkedIn](https://img.shields.io/badge/-Kartik_Saxena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-saxena-5b6157254/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/karticksaxena)
+[![ShitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=ShitHub&logoColor=white)](https://github.com/karticksaxena)
 
 ### Philosophy
 
