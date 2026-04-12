@@ -11,7 +11,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
-> All-in on Google ADK — building multi-agent systems that actually run in production, not just in notebooks.
+> All-in on Google ADK - building multi-agent systems that actually run in production, not just in notebooks.
 
 ## Current Projects
 
