@@ -63,4 +63,4 @@
 
 ### Philosophy
 
-> *"AI doesn't make decisions — it makes humans better at making them."*
+> *"AI doesn't make decisions - it makes humans better at making them."*
