@@ -49,11 +49,11 @@
 
 ## What I'm Doing
 
-- **Arguing with Claude Code and Cursor** — convinced I'm right, usually not
-- **Building a portfolio website** — because apparently just having projects isn't enough
-- **Building a portfolio project** — something worth pointing at during interviews
-- **Trying to build a trading bot** — emphasis on *trying*
-- **Desperately keeping up with the AI space** — it moves faster than I can read
+- **Arguing with Claude Code and Cursor** - convinced I'm right, usually not
+- **Building a portfolio website** - because apparently just having projects isn't enough
+- **Building a portfolio project** - something worth pointing at during interviews
+- **Trying to build a trading bot** - emphasis on *trying*
+- **Desperately keeping up with the AI space** - it moves faster than I can read
 
 ## Connect
 
