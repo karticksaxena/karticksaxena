@@ -31,6 +31,7 @@
 
 ## Learning in Public
 
+- 📉 **[Medium Churn Pipeline](https://github.com/karticksaxena/Medium-Churn)** - Production-style ML retraining pipeline with Kubeflow, BigQuery ML (XGBoost), and Vertex AI for churn prediction
 - 🎛️ **[LLM Fine-Tuning](https://github.com/karticksaxena/LLM-FineTuning)** - SmolLM2-135M fine-tuned for LLM routing using Full SFT, LoRA, QLoRA, and GRPO (RLHF)
 - 🤖 **[Learning GPT](https://github.com/karticksaxena/Learning-GPT)** - Decoder-only transformer built from scratch in PyTorch, following Karpathy's tutorial
 - 🧬 **[Word2Vec from Scratch](https://github.com/karticksaxena/Embeddings-scratch)** - Primitive next-word prediction, CBOW, Skipgram, and SGNS implemented in PyTorch
