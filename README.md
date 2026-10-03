@@ -4,6 +4,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-121212?style=flat-square&logo=anthropic&logoColor=white)
 ![A2A](https://img.shields.io/badge/-A2A-FF6B35?style=flat-square&logo=google&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -15,6 +17,7 @@
 
 ## Current Projects
 
+- 🖥️ **[SameSide](https://www.kartiksaxena.com/sameside)** - Free macOS menu bar app: a Dock click brings up the app's window on the screen you're using ([code](https://github.com/karticksaxena/SameSide))
 - 🔍 **[Job Search Agent](https://github.com/karticksaxena/Job-search)** - ADK agent for real-time job market intelligence using the Adzuna API
 
 ## Legacy Work
@@ -51,13 +54,14 @@
 ## What I'm Doing
 
 - **Arguing with Claude Code and Cursor** - convinced I'm right, usually not
-- **Building a portfolio website** - because apparently just having projects isn't enough
-- **Building a portfolio project** - something worth pointing at during interviews
+- **Shipped my portfolio site** - [kartiksaxena.com](https://www.kartiksaxena.com), because apparently just having projects isn't enough
+- **Shipped [SameSide](https://www.kartiksaxena.com/sameside)** - a free Mac app for multi-monitor setups, something worth pointing at during interviews
 - **Trying to build a trading bot** - emphasis on *trying*
 - **Desperately keeping up with the AI space** - it moves faster than I can read
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/-kartiksaxena.com-000000?style=flat-square&logo=safari&logoColor=white)](https://www.kartiksaxena.com)
 [![Twitter](https://img.shields.io/badge/-@kar__tik1972-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/kar_tik1972)
 [![LinkedIn](https://img.shields.io/badge/-Kartik_Saxena-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-saxena-5b6157254/)
 [![ShitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=ShitHub&logoColor=white)](https://github.com/karticksaxena)
