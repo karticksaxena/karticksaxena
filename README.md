@@ -18,10 +18,10 @@
 ## Current Projects
 
 - 🖥️ **[SameSide](https://www.kartiksaxena.com/sameside)** - Free macOS menu bar app: a Dock click brings up the app's window on the screen you're using ([code](https://github.com/karticksaxena/SameSide))
-- 🔍 **[Job Search Agent](https://github.com/karticksaxena/Job-search)** - ADK agent for real-time job market intelligence using the Adzuna API
 
 ## Legacy Work
 
+- 🔍 **[Job Search Agent](https://github.com/karticksaxena/Job-search)** - ADK agent for real-time job market intelligence using the Adzuna API
 - 🏙️ **[NYC Event-Driven Analytics Pipeline](https://github.com/karticksaxena/Project-9.5-NYC-Event-Driven-Data-Analytics-Dataproc-Pyspark)** - Event-driven GCP pipeline with PySpark, BigQuery, and Looker Studio
 - 🚕 **[NYC Uber Data Engineering](https://github.com/karticksaxena/Project-7-NYC-Uber-Data-Engineering-Pandas-Pyspark-Mage)** - End-to-end pipeline with Mage, PySpark, and BigQuery
 - 💰 **[HeyLoopa](https://github.com/karticksaxena/Project-6-Loopa)** - AI-powered financial insights tool built with Gemini Pro on GCP
